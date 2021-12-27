@@ -1,4 +1,4 @@
-body {background-color: darkseagreen;}
+body {background-color: darkseagreen; margin: 0px;}
 
 header {
     display: flex; background-color: dimgrey; justify-content: space-between;
